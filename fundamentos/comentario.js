@@ -1,14 +1,11 @@
-// Comentário de uma linha
-console.log('Linha 1');
+// Comnetario de uma Linha
+console.log('Linha 1'); //Comnetario da execução
 
 /*
-Comentário de 
-múltiplas linhas
+    comentario 
+    de 
+    múltiplas 
+    Linhas
 */
+
 console.log('Linha 2');
-
-/*
-* Comentário de 
-* múltiplas linhas
-*/
-console.log('Linha 3');
